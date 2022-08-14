@@ -383,7 +383,8 @@ img:nth-child(6){animation-delay: 30s;}
     height: 300px;
     right: 100px;
     position: sticky;
-    float: right;
+    float: left;
+    left: 65vw;
     padding: 10px 10px;
     border-radius: 25px;
     background: rgba(91, 114, 105, 0.8);
@@ -408,6 +409,8 @@ img:nth-child(6){animation-delay: 30s;}
     width: 300px;
     height: 300px;
     position: sticky;
+    float: left;
+    left: 35vw;
     padding: 10px 10px;
     border-radius: 25px;
     background: rgba(91, 114, 105, 0.8);
