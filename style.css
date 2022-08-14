@@ -240,9 +240,9 @@ section#fave {
     margin: 0 0px;
     width: 400px;
     height: 400px;
-    right: 15vw;
     position: sticky;
-    float: right;
+    float:left;
+    left: 60vw;
     padding: 10px 10px;
     border-radius: 25px;
     background: rgba(91, 114, 105, 0.7);
