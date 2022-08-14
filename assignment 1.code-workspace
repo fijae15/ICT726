@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ict726-assessment01",
+			"path": "../../github/ict726-assessment01"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assignment 1"
+	}
+}
