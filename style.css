@@ -228,7 +228,7 @@ section#fave {
     margin: 0 0px;
     width: 580px;
     height: 400px;
-    left: 100px;
+    left: 15vw;
     position: sticky;
     float: left;
     padding: 10px 10px;
@@ -240,7 +240,7 @@ section#fave {
     margin: 0 0px;
     width: 400px;
     height: 400px;
-    right: 200px;
+    right: 15vw;
     position: sticky;
     float: right;
     padding: 10px 10px;
@@ -352,9 +352,9 @@ img:nth-child(6){animation-delay: 30s;}
 }
 
 .leftFigure {
-     width: 300px;
+    width: 300px;
     height: 300px;
-    left: 100px;
+    left: 15vw;
     position: sticky;
     float: left;
     padding: 10px 10px;
@@ -410,7 +410,7 @@ img:nth-child(6){animation-delay: 30s;}
     height: 300px;
     position: sticky;
     float: left;
-    left: 35vw;
+    left: 40vw;
     padding: 10px 10px;
     border-radius: 25px;
     background: rgba(91, 114, 105, 0.8);
